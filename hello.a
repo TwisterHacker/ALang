@@ -1,0 +1,5 @@
+#simple ALang program
+
+LOG "Hello!";
+
+END;
