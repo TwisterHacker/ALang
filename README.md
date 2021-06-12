@@ -3,12 +3,11 @@ ALang is a simple programming language built in python
 
 Commands:
 
-1) LOG 
+1) LOG \n
 LOG "Test";
 END;
 
 Variables:
-
 types:
 
 1)_num (number variable)
