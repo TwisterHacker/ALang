@@ -1,0 +1,9 @@
+@test comment
+module("test_prog");
+
+_int b = 123;
+_int a = 123;
+_str c = "asas";
+log("adadad");
+log("adadad");
+log("adadad");

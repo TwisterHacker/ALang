@@ -1,0 +1,5 @@
+@string library
+
+func toUpperCase = (_str str){
+    return(123);
+}
