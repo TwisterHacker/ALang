@@ -1,0 +1,8 @@
+_include "Files/include/inc.a";
+
+module(__MainModule__);
+
+func Main = ()
+{
+return(b);
+}
